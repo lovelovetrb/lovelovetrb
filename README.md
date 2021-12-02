@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @lovelovetrb
-- 👀 I’m interested in something...
-- 🌱 I’m currently learning Python
+- 🏫　　Shizuoka University Student 
+- 👀 I’m interested in fishing, listen music, etc...
+- 🌱 I’m currently learning Java
 - 📫 How to reach me twitter or E-mail
 
 <!---

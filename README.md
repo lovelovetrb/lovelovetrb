@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lovelovetrb
-- 🏫　　Shizuoka University Student 
+- 🏫　　University Student 
 - 👀 I’m interested in fishing, listen music, etc...
 - 🌱 I’m currently learning Java
 - 📫 How to reach me twitter or E-mail

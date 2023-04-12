@@ -1,6 +1,6 @@
 ### 🧑🏻‍🎓 about Mizuki
 - 👋 Hi, I’m @lovelovetrb
-- 🏫　　University Student 
+- 🏫 University Student 
 - 👀 I’m interested in fishing, listen music, etc...
 - 🌱 I’m currently learning NLP
 - 📫 How to reach me twitter or E-mail

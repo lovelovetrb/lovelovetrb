@@ -7,7 +7,7 @@
 - 🙏 Please come my web page -> [here](https://lovelovetrb.github.io/)
 
 ###  🌱 skills I've Experienced
-This list also includes things I'm studying　:(
+This list also includes things I'm studying:(
 
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,js,ts,nodejs,react,nextjs,netlify,firebase,gatsby,graphql,java,docker,git,github,linux,lua,md,mysql,vscode,vim,neovim,figma,)](https://skillicons.dev)
 

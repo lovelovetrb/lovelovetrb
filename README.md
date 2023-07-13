@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @lovelovetrb
 - 🏫 University Student 
 - 👀 I’m interested in fishing, listen music, etc...
-- 🌱 I’m currently learning NLP
+- 🌱 I’m currently researching NLP
 - 📫 How to reach me twitter or E-mail
 - 🙏 Please come my web page -> [here](https://lovelovetrb.github.io/)
 

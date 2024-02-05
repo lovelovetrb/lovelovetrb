@@ -9,7 +9,7 @@
 ###  🌱 skills I've Experienced
 Most of this list is under study :(
 
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,fastapi,html,css,js,ts,nodejs,react,nextjs,netlify,firebase,gatsby,graphql,java,docker,git,github,linux,lua,md,mysql,vscode,vim,neovim,figma,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,fastapi,html,css,js,ts,nodejs,react,nextjs,netlify,flutter,firebase,gatsby,graphql,java,docker,git,github,linux,lua,md,mysql,vscode,vim,neovim,figma,)](https://skillicons.dev)
 
 ![Mizuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=lovelovetrb&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovelovetrb&theme=dracula)](https://github.com/lovelovetrb/github-readme-stats)

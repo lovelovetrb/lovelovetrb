@@ -1,5 +1,6 @@
 <div align='center'>
   <h1>Hi, I'm Mizuki👋</h1>
+  <h3>NLP, Gadget, Electronics...</h3>
 </div>
 
 ### 🧑🏻‍🎓 about Mizuki

@@ -11,7 +11,7 @@
 ### 📫 Reach with me
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/lovelovetrb)
 [![discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/1049392338360873021)
-[![mail](https://skillicons.dev/icons?i=gmail)](mailto:mbaba@kanolab.net)
+[![mail](https://skillicons.dev/icons?i=gmail)](mailto:info@lovelovetrb.com)
 
 ###  🧰 skills I've Experienced
 Most of this list is under study :(
